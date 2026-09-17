@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\STUDIO GITHUB TEST\\TEST\\GuessingGame\\",
+  "WorkspaceRootPath": "H:\\TEST\\GuessingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{814E9859-B74E-40F1-AEA8-B758A6A8BF32}|GuessingGame\\GuessingGame.csproj|h:\\studio github test\\test\\guessinggame\\guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{814E9859-B74E-40F1-AEA8-B758A6A8BF32}|GuessingGame\\GuessingGame.csproj|h:\\test\\guessinggame\\guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{814E9859-B74E-40F1-AEA8-B758A6A8BF32}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\STUDIO GITHUB TEST\\TEST\\GuessingGame\\GuessingGame\\Program.cs",
+              "DocumentMoniker": "H:\\TEST\\GuessingGame\\GuessingGame\\Program.cs",
               "RelativeDocumentMoniker": "GuessingGame\\Program.cs",
-              "ToolTip": "H:\\STUDIO GITHUB TEST\\TEST\\GuessingGame\\GuessingGame\\Program.cs",
+              "ToolTip": "H:\\TEST\\GuessingGame\\GuessingGame\\Program.cs",
               "RelativeToolTip": "GuessingGame\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T01:03:26.78Z",
               "EditorCaption": ""
